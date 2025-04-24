@@ -1,9 +1,7 @@
 ## Hi, I'm Hashim Ali 👋
-
-<!--
-👨‍💻 Fahad Shahzad - Frontend Developer
+👨‍💻 - Frontend Developer
 About Me
-I'm a passionate Frontend Developer currently enrolled in a 6-month Frontend Development course at Computer Collegiate, with 2 months remaining. I also hold a 6-month CIT Certificate from ICE Computer Institute. I’m focused on building clean, responsive, and user-friendly websites using modern frontend technologies.
+I'm a passionate Frontend Developer currently enrolled in a 10-month Frontend Development course at Aptech, with 2 months remaining. I’m focused on building clean, responsive, and user-friendly websites using modern frontend technologies.
 
 💼 Projects
 Restaurant Website – Menu filtering, cart, order form, WhatsApp integration.
@@ -37,6 +35,9 @@ Diploma in Cost and Management Accounting (In Progress) – Institute of Cost an
 Email: mfahadshahzad348@gmail.com
 WhatsApp: Message Me
 Portfolio (Coming Soon)
+
+<!--
+
 
 **HashimAli27/HashimAli27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
