@@ -1,5 +1,5 @@
-## Hi, I'm Hashim Ali 👋
-👨‍💻 - Frontend Developer
+## Hi, I'm Hashim Ali 👋 👨‍💻 - Frontend Developer
+
 About Me
 I'm a passionate Frontend Developer currently enrolled in a 10-month Frontend Development course at Aptech, with 2 months remaining. I’m focused on building clean, responsive, and user-friendly websites using modern frontend technologies.
 
