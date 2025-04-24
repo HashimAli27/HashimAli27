@@ -1,17 +1,20 @@
 ## 👋 👨‍💻 Hi, I'm Hashim Ali - Frontend Developer
 
 ## About Me
-I'm a passionate Frontend Developer currently enrolled in a 6-month Frontend Development course at **Computer Collegiate**, with 2 months remaining. I also hold a **6-month CIT Certificate** from **ICE Computer Institute**. I’m focused on building clean, responsive, and user-friendly websites using modern frontend technologies.
+I'm a passionate Frontend Developer currently enrolled in a 1 year Backend/Frontend Development course at **Aptech**, I’m focused on building clean, responsive, and user-friendly websites using modern frontend technologies.
 
 ## 💼 Projects
 - **Restaurant Website** – Menu filtering, cart, order form, WhatsApp integration.
-- **The Guitar Garage** – Product listing, responsive layout, category navigation.
-- **Responsive Grid Layout** – Built with CSS Flexbox and Media Queries.
+- **E-Commerces Website** – Product listing, responsive layout, category navigation.
 - **JavaScript Calculator** – Simple UI-based calculator using HTML, CSS, and JavaScript.
+- **IT services Website** - In wordpress
 
 ## 📠 Skills
 - HTML5, CSS3, JavaScript
+- Figma (UI/UX basics)
 - Tailwind CSS
+- php
+- mysql
 - Responsive Web Design
 - Visual Studio Code (VS Code)
 - Git & GitHub
@@ -19,17 +22,18 @@ I'm a passionate Frontend Developer currently enrolled in a 6-month Frontend Dev
 - Adobe Illustrator
 - Adobe Premiere Pro
 - Adobe After Effect
-- Figma (UI/UX basics)
 - MS Office
-- Social Media Handling (Facebook, Instagram, TikTok, WhatsApp Business)
+- Social Media Handling (Meta Bussiness suit, Facebook, Instagram, TikTok, WhatsApp Business)
 
 ## 📚 Education
-- **Matriculation (Computer Science)** – Al-Nasr Schooling System
-- **Intermediate (Commerce)** – Aisha Bawany College
-- **CIT Certificate (6 Months)** – ICE Computer Institute
-- **Frontend Development (In Progress)** – Computer Collegiate
-- **Backend Development (Upcoming)** – To begin after completion of frontend course
-- **Diploma in Cost and Management Accounting (In Progress)** – Institute of Cost and Management Accountants Pakistan (ICMAP)
+- **Matriculation (Computer Science)** – kbv CAA Modal school-1
+- **Intermediate (Commerce)** – National college
+- **Aptech Certificate (1 year)** – Aptech
+- **Gaming and Animation** - Sir Syed university  (nexskill)
+- **Graphic Designing Certificate (3 months)** - Digi Duck Academy
+- **Video Editing Certificate (3 months)** - Digi Duck Academy
+- **Digital Marketing Certificate (3 months)** - Digi Duck Academy
+- **Microsoft Office Certificate (3 months)** - Digi Duck Academy
 
 ## 📌 Currently
 
@@ -37,7 +41,7 @@ I'm a passionate Frontend Developer currently enrolled in a 6-month Frontend Dev
 - 🌱 Learning: JavaScript ES6+, Tailwind CSS, and React (soon)
 - 🎯 Goal: To land a front-end internship and start freelancing
 - 💬 Ask me about: Front-end development, responsive design, or GitHub setup
-- 📫 Reach me at: [mfahadshahzad348@gmail.com](mailto:mfahadshahzad348@gmail.com)
+- 📫 Reach me at: [muhammadhashimaliabbasi@gmail.com](mailto:mfahadshahzad348@gmail.com)
 
 ## 📣 Contact
 - **Email:** [mfahadshahzad348@gmail.com](mailto:muhammadhashimaliabbasi@gmail.com)
