@@ -34,6 +34,7 @@ I'm a passionate Frontend Developer currently enrolled in a 1 year Backend/Front
 - **Video Editing Certificate (3 months)** - Digi Duck Academy
 - **Digital Marketing Certificate (3 months)** - Digi Duck Academy
 - **Microsoft Office Certificate (3 months)** - Digi Duck Academy
+- Bachelor of Business Administration (BBA)** - indus university  
 
 ## 📌 Currently
 
