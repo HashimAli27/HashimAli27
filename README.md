@@ -4,12 +4,12 @@
 
 I'm a passionate Frontend Developer currently enrolled in a 10-month Frontend Development course at Aptech, with 2 months remaining. I’m focused on building clean, responsive, and user-friendly websites using modern frontend technologies.
 
-💼 Projects
+## 💼 Projects
 Restaurant Website – Menu filtering, cart, order form, WhatsApp integration.
 The Guitar Garage – Product listing, responsive layout, category navigation.
 Responsive Grid Layout – Built with CSS Flexbox and Media Queries.
 JavaScript Calculator – Simple UI-based calculator using HTML, CSS, and JavaScript.
-📠 Skills
+## 📠 Skills
 HTML5, CSS3, JavaScript
 Tailwind CSS
 Responsive Web Design
@@ -19,14 +19,14 @@ Adobe Photoshop (Basic)
 Figma (UI/UX basics)
 MS Office
 Social Media Handling (Facebook, Instagram, TikTok, WhatsApp Business)
-📚 Education
+## 📚 Education
 Matriculation (Computer Science) – Al-Nasr Schooling System
 Intermediate (Commerce) – Aisha Bawany College
 CIT Certificate (6 Months) – ICE Computer Institute
 Frontend Development (In Progress) – Computer Collegiate
 Backend Development (Upcoming) – To begin after completion of frontend course
 Diploma in Cost and Management Accounting (In Progress) – Institute of Cost and Management Accountants Pakistan (ICMAP)
-📌 Currently
+## 📌 Currently
 🔨 Working on: Portfolio website and small front-end projects
 🌱 Learning: JavaScript ES6+, Tailwind CSS, and React (soon)
 🎯 Goal: To land a front-end internship and start freelancing
